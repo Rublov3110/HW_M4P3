@@ -1,0 +1,5 @@
+﻿{
+  "ContextFactory": {
+    "ConnectionString" : "Data Source=DESKTOP-F1NTJDE;Initial Catalog=HW_M4P3;Integrated Security=True"
+  }
+}
